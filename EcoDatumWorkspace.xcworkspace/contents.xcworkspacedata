@@ -13,4 +13,7 @@
    <FileRef
       location = "group:../EcoDatumPersistence/EcoDatumPersistence.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:../EcoDatumIOSApp/EcoDatumIOSApp.xcodeproj">
+   </FileRef>
 </Workspace>
