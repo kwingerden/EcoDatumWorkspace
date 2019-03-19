@@ -11,7 +11,7 @@
       location = "group:../EcoDatumModel/EcoDatumModel.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../EcoDatumPersistence/EcoDatumPersistence.xcodeproj">
+      location = "group:../EcoDatumService/EcoDatumService.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:../EcoDatumIOSApp/EcoDatumIOSApp.xcodeproj">
